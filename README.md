@@ -1,6 +1,6 @@
-# FGSM-Demo
+# Fast Gradient Sign Method Demo
 
-This is a demo for the Fast Gradient Sign Method, written in Black Bauhinia Newsletter.
+This is a demo for showcasing the Fast Gradient Sign Method written in Black Bauhinia Newsletter.
 
 To run the demo, do the following:
 
